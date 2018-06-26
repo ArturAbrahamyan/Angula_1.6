@@ -1,4 +1,5 @@
 'use strict'
+//https://scotch.io/tutorials/angularjs-form-validation
 var routerApp = angular.module("routerApp", ["ui.router"]);
 routerApp.config(
     ["$stateProvider", "$urlRouterProvider",
